@@ -187,7 +187,8 @@ public class SequenceHandler {
 			case 19:
 				ProgressBar.Initialise();
 				ProgressBar.Show();
-				ProgressBar.SetProgress(0, 24);
+//				ProgressBar.SetProgress(0, 24);
+				ProgressBar.SetProgress(0, 16);
 				
 				IOtask2Block block7 = new IOtask2Block();
 				
